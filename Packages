@@ -1,14 +1,14 @@
-Package: 
-Name: 
-Version: 
-Architecture: 
-Description: 
-Maintainer: 
-Author: 
-Section: 
-Depends: 
-Filename: 
-Size: 
-MD5sum: 
-SHA1: 
-SHA256:
+Package: com.hydra.placeholder
+Name: Placeholder
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Placeholder tweak. Does absolutely nothing.
+Maintainer: hydra <hydrofyre@protonmail.com>
+Author: hydra <hydrofyre@protonmail.com>
+Section: themes
+Depends: com.nepeta.exobar
+Filename: debs/com.hydra.placeholder_iphoneos-arm_1.0.deb
+Size: 1
+MD5sum: 68b329da9893e34099c7d8ad5cb9c940
+SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
