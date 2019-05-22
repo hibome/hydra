@@ -3,8 +3,8 @@ Name: Placeholder
 Version: 1.0
 Architecture: iphoneos-arm 
 Description: Placeholder tweak. Does absolutely nothing.
-Maintainer: hydra <hydrofyre@protonmail.com>
-Author: hydra <hydrofyre@protonmail.com>
+Maintainer: hibome <hydrofyre@protonmail.com>
+Author: hibome <hydrofyre@protonmail.com>
 Section: Widgets
 Depends: com.nepeta.exobar
 Filename: debs/com.hydra.placeholder_iphoneos-arm_1.0.deb
