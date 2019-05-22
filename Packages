@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: Placeholder tweak. Does absolutely nothing.
 Maintainer: hydra <hydrofyre@protonmail.com>
 Author: hydra <hydrofyre@protonmail.com>
-Section: themes
+Section: Widgets
 Depends: com.nepeta.exobar
 Filename: debs/com.hydra.placeholder_iphoneos-arm_1.0.deb
 Size: 1
