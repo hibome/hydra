@@ -21,7 +21,7 @@ Description: Big battery widget readable on any wallpaper. Impact font.
 Maintainer: hibome <hydrofyre@protonmail.com>
 Author: bestclassic <nkubiak455@gmail.com>
 Section: Widgets
-Depends: com.nepeta.exobar
+Depends: me.nepeta.exo, me.nepeta.exoxen
 Filename: debs/com.hydra.bigbattery_iphoneos-arm_1.0.deb
 Size: 133337
 MD5sum: 4b9ea3c1c6b98c8f4dac8c29d983c2cf
