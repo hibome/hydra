@@ -15,7 +15,7 @@ SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
 
 Package: com.hydra.bigbattery
 Name: Big Battery
-Version: 0.5
+Version: 1.0
 Architecture: iphoneos-arm 
 Description: Big battery widget readable on any wallpaper. Impact font.
 Maintainer: hibome <hydrofyre@protonmail.com>
@@ -23,7 +23,7 @@ Author: bestclassic <nkubiak455@gmail.com>
 Section: Widgets
 Depends: me.nepeta.exo, me.nepeta.exoxen
 Filename: debs/com.hydra.bigbattery_iphoneos-arm_1.0.deb
-Size: 133337
-MD5sum: 4b9ea3c1c6b98c8f4dac8c29d983c2cf
-SHA1: eda7bfc8684ec94cca5c56f65f121640f35dc01b
-SHA256: 31f25bff5decfedf72591ad564aae4950bcdb48ab0e6e804fdf7d4787603c01f
+Size: 67630
+MD5sum: 6180a8c13a37aa1eb0911e6fc28a92e9
+SHA1: 5b76412724c8b50abaaac58e0400e6540da98bcf
+SHA256: d462b3191c45e7e48958a8f514c38e4fdb3ac0b21d5ccb14d6fae309d222c6b8
