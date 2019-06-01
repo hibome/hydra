@@ -1,4 +1,4 @@
-[Add this repo to Cydia!](cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/)
+[Add this repo to Cydia!](cydia://url/https://cydia.saurik.com/api/share#?source=https://hibome.github.io/hydra/)
 
 ## Hydra
 Welcome to hibome/bestclassic's jailbreak repository. Here you will find a miscellaneous assortment of widgets and tweaks.
