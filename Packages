@@ -27,3 +27,33 @@ Size: 67630
 MD5sum: 6180a8c13a37aa1eb0911e6fc28a92e9
 SHA1: 5b76412724c8b50abaaac58e0400e6540da98bcf
 SHA256: d462b3191c45e7e48958a8f514c38e4fdb3ac0b21d5ccb14d6fae309d222c6b8
+
+Package: com.hydra.bigclock
+Name: Big Clock
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Big Clock - Impact Font
+Maintainer: hibome <hydrofyre@protonmail.com>
+Author: bestclassic <nkubiak455@gmail.com>
+Section: Widgets
+Depends: me.nepeta.exo, me.nepeta.exoxen
+Filename: debs/com.hydra.bigclock_iphoneos-arm_1.0.deb
+Size: 67696
+MD5sum: a3e18e884eaae01c0c8b01d13730fb58
+SHA1: c913ea20aa10a9a9d3222a13b5232804cc7b333c
+SHA256: 0abc04ebc600129c962e0148d3f3ce1bab6d3a8772a08425bf524b42d2ff28c8
+
+Package: com.hydra.bigclockseconds
+Name: Big Clock (Seconds)
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: Big Clock - Impact Font (with seconds)
+Maintainer: hibome <hydrofyre@protonmail.com>
+Author: bestclassic <nkubiak455@gmail.com>
+Section: Widgets
+Depends: me.nepeta.exo, me.nepeta.exoxen
+Filename: debs/com.hydra.bigclockseconds_iphoneos-arm_1.0.deb
+Size: 67754
+MD5sum: 097230057dc137e57ca84e6ecbde5b54
+SHA1: bb2dd24a267f982d52b0b9e6f907a5f74dee61fb
+SHA256: 3a18892a46a316ad6f86b35f9067ebe9986f649e2f87d8e62ae780840ae478b0
